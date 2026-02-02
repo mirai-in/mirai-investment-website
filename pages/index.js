@@ -22,7 +22,7 @@ const CONFIG = {
     location: 'Hyderabad, India'
   },
   contact: {
-    email: 'thouseefshaik464@gmail.com',
+    email: 'miraiglobal.in@gmail.com',
     phone: '+91 8498077190',
     phoneDisplay: '+91 84980 77190',
     whatsappOnly: true,
